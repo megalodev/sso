@@ -1,5 +1,5 @@
 {
-  "name": "sso",
+  "name": "@orbs-lib/sso",
   "version": "0.1.0",
   "description": "Authentication middleware.",
   "main": "src/index.ts",
